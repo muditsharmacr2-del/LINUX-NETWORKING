@@ -176,7 +176,7 @@ Received files appear under:
 
 > 💬 Ideal for one-off transfers — no SSH or SCP setup needed.
 
-![Screenshot: Tailscale Send File](path/to/screenshot_sendfile.png)
+
 
 ---
 
@@ -191,7 +191,7 @@ Manage your connected systems easily using the following commands:
 | Disconnect from network | `sudo tailscale down` | Temporarily disables Tailscale |
 | Reconnect               | `sudo tailscale up`   | Reconnects to your network     |
 
-![Screenshot: Device List](path/to/screenshot_devices.png)
+
 
 ---
 
