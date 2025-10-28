@@ -226,7 +226,7 @@ sudo systemctl stop tailscaled
 
 You can define Access Control Lists in your Tailscale Admin Console to restrict which devices can communicate.
 
-![Screenshot: Admin Console](path/to/screenshot_admin.png)
+
 
 > 🔒 **Best Practice:** Use ACLs and device tags to segment access between production and personal machines.
 
